@@ -2,7 +2,7 @@
 // Demo programming via programming languages // Python //  C/C++  // JavaScrip // Java 
 
 ## Categorize
-## [1. Program Demo by C/C++ ](https://github.com/TrG-1999/programming/tree/master/ProgamDemo/DemoCorC2plus)
+## [1. Program Demo by C/C++ (link all source)](https://github.com/TrG-1999/programming/tree/master/ProgamDemo/DemoCorC2plus)
 
 ### [- Game Char (using function Kbhit)](https://github.com/TrG-1999/programming/tree/master/ProgamDemo/DemoCorC2plus/GameChar.c)
 
@@ -24,7 +24,7 @@
 
 ![Image of game char](https://github.com/TrG-1999/programming/blob/master/ProgamDemo/DemoCorC2plus/tower.PNG)
 
-## [2. Program Demo by Python ](https://github.com/TrG-1999/programming/tree/master/ProgamDemo/DemoPython)
+## [2. Program Demo by Python (link all source)](https://github.com/TrG-1999/programming/tree/master/ProgamDemo/DemoPython)
 
 ### [-Watermarking with Discrete Wavelet Transform (using haar Transform)](https://github.com/TrG-1999/programming/tree/master/ProgamDemo/DemoPython/Watermark_With_DWT)
 
